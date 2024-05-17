@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Nothing
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MuhammadAsim1001)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadAsim1001&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!---
 MuhammadAsim1001/MuhammadAsim1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
