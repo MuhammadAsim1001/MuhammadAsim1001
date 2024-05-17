@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Muhammad Asim
+- 🔭 I’m working as a Software Engineer at Educative.io
+- 🌱 I’m currently learning to socialize
+- 👯 I’m looking to collaborate on amazing projects
+- 💬 Ask me about anything
+- 📫 How to reach me: asimbhatti1001@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Nothing
+
+<!---
+MuhammadAsim1001/MuhammadAsim1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
