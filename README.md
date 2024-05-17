@@ -9,7 +9,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadAsim1001&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAsim1001&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 MuhammadAsim1001/MuhammadAsim1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
