@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to socialize
 - 👯 I’m looking to collaborate on amazing projects
 - 💬 Ask me about anything
-- 📫 How to reach me: asimbhatti1001@gmail.com
+- 📫 How to reach me: [asimbhatti1001@gmail.com](mailto:asimbhatti1001@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Nothing
 
