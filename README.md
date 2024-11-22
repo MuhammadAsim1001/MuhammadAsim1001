@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Asim
-- 🔭 I’m working as a Software Engineer
+- 🔭 I’m working as a Software Engineer at desgingurus.io
 - 🌱 I’m currently learning to socialize
 - 👯 I’m looking to collaborate on amazing projects
 - 💬 Ask me about anything
