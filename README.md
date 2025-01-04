@@ -5,7 +5,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: [asimbhatti1001@gmail.com](mailto:asimbhatti1001@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Nothing.
+- ⚡ Fun fact: Nothing
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadAsim1001&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
